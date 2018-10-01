@@ -29,7 +29,7 @@
     "appium-adb": "^6.15.2",
     "appium-android-driver": "^4.0.0",
     "appium-base-driver": "^3.5.0",
-    "appium-support": "^2.20.0",
+    "appium-support": "^2.21.0",
     "asyncbox": "^2.3.1",
     "babel-runtime": "=5.8.24",
     "bluebird": "^3.5.0",
